@@ -1,6 +1,6 @@
-# yaolinxue.com
+# zexu.li.com
 
-yaolinxue's Blog
+zexu.li's Blog
 
 ## Usage
 
