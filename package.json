@@ -2,6 +2,7 @@
   "name": "zexu.li",
   "version": "1.0.0",
   "private": true,
+  "description": "zexu.li's blog",
   "author": "zexu.li",
   "license": "MIT",
   "scripts": {
